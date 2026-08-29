@@ -1,0 +1,5 @@
+interface:
+  display_name: "YouMind Skill 上传器"
+  short_description: "上传现成 Skill 到 YouMind，并生成后台文案与配图"
+  brand_color: "#6657E8"
+  default_prompt: "使用 $youmind-skill-uploader，把这个现有 Skill 上传到 YouMind；生成所需文案和图片，填写并提交后台表单。"
