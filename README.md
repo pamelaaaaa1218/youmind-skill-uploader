@@ -50,6 +50,12 @@ https://github.com/owner/repository
 使用 $youmind-skill-uploader，整理这个 Skill 的 YouMind 上架资料，我自己上传，不要提交。
 ```
 
+## 项目更新与AI实践
+
+微信搜索公众号 **「Pamela的AI笔记」** 或扫描下方二维码，获取项目更新、最新AI应用案例和实用教程。
+
+<img src="assets/pamela-ai-notes-wechat.png" alt="微信公众号「Pamela的AI笔记」二维码" width="800">
+
 ## 后台内容
 
 | 内容 | 默认要求 |
